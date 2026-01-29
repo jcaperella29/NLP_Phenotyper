@@ -1,0 +1,31 @@
+Bootstrap: docker
+From: python:3.11-slim
+
+%environment
+    export PYTHONDONTWRITEBYTECODE=1
+    export PYTHONUNBUFFERED=1
+
+%post
+    apt-get update && apt-get install -y --no-install-recommends build-essential \
+        && rm -rf /var/lib/apt/lists/*
+
+    mkdir -p /app
+    pip install --no-cache-dir -U pip
+
+    # Copy happens in %files; install deps here
+    pip install --no-cache-dir -r /app/requirements.txt
+
+    # If you removed en-core-web-sm from requirements.txt, do:
+    # python -m spacy download en_core_web_sm
+
+%files
+    requirements.txt /app/requirements.txt
+    app.py /app/app.py
+    phenotyper /app/phenotyper
+    assets /app/assets
+
+%workdir
+    /app
+
+%runscript
+    exec python /app/app.py
