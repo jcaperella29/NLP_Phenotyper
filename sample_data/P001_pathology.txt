@@ -1,0 +1,18 @@
+FINAL DIAGNOSIS:
+Left breast, core biopsy:
+Invasive ductal carcinoma.
+
+HISTOLOGY:
+Invasive ductal carcinoma (IDC).
+
+GRADE:
+Nottingham grade 2.
+
+IMMUNOHISTOCHEMISTRY:
+Estrogen receptor (ER): Positive (90%)
+Progesterone receptor (PR): Positive (80%)
+HER2: Negative (0)
+Ki-67: 18%
+
+PATHOLOGIC STAGE:
+pT1c pN0

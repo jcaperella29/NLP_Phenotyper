@@ -1,0 +1,8 @@
+ASSESSMENT:
+Patient with newly diagnosed breast cancer.
+
+The tumor is ER positive and PR positive.
+HER2 is negative by immunohistochemistry.
+No evidence of metastatic disease.
+
+Clinical stage I.

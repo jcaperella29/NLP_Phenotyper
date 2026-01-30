@@ -1,0 +1,14 @@
+FINAL DIAGNOSIS:
+Left breast excisional biopsy.
+
+HISTOLOGY:
+Ductal carcinoma in situ (DCIS).
+
+GRADE:
+Grade 1.
+
+IMMUNOHISTOCHEMISTRY:
+ER: Positive
+PR: Positive
+HER2: Negative
+

@@ -1,0 +1,14 @@
+note_id,patient_id,note_date,note_type
+P001_pathology,P001,2024-01-05,Pathology
+P001_oncology_consult,P001,2024-01-12,OncologyConsult
+
+P002_pathology,P002,2024-02-01,Pathology
+P002_addendum_fish,P002,2024-02-03,Pathology
+P002_oncology_consult,P002,2024-02-05,OncologyConsult
+
+P003_pathology,P003,2023-11-10,Pathology
+P003_radiology_note,P003,2023-11-15,Radiology
+
+P004_old_pathology,P004,2022-03-01,Pathology
+P004_new_pathology,P004,2024-01-15,Pathology
+

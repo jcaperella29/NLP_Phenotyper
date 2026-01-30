@@ -1,0 +1,15 @@
+FINAL DIAGNOSIS:
+Right breast mass biopsy.
+
+HISTOLOGY:
+Invasive ductal carcinoma.
+
+GRADE:
+Grade 3.
+
+IMMUNOHISTOCHEMISTRY:
+ER: Negative
+PR: Negative
+HER2: 2+ (equivocal)
+
+Ki-67: 45%

@@ -1,0 +1,8 @@
+DATE: 2022-03-01
+
+DIAGNOSIS:
+Invasive lobular carcinoma.
+
+ER: Positive
+PR: Positive
+HER2: Negative
